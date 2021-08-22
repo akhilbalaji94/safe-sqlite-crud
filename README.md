@@ -1,4 +1,4 @@
-#A java program to make safe CRUD operations in a mysqlite DB
+# A java program to make safe CRUD operations in a mysqlite DB
 
 1. Install sqlite (sudo apt-get install sqlite)
 2. Used sqlite methods from https://gist.github.com/mchirico/4751124#file-sqlite-java
