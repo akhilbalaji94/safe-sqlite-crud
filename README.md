@@ -1,11 +1,11 @@
-A java program to make safe CRUD operations in a mysqlite DB
+#A java program to make safe CRUD operations in a mysqlite DB
 
-Install sqlite (sudo apt-get install sqlite)
-Used sqlite methods from https://gist.github.com/mchirico/4751124#file-sqlite-java
-Compiled (Will work with any JDK)From root directory (Dir with /src /bin /lib)
-SQL DB will be generated in root dir
+1. Install sqlite (sudo apt-get install sqlite)
+2. Used sqlite methods from https://gist.github.com/mchirico/4751124#file-sqlite-java
+3. Compile (Will work with any JDK)From root directory (Dir with /src /bin /lib)
+4. SQL DB will be generated in root dir
 
-THE REGEX NEEDS TO BE worked on.
+5. THE REGEX NEEDS WORK
 
 TO COMPILE
 javac -d bin -sourcepath src -cp lib/sqlite-jdbc-3.20.0.jar src/inputvalidation/InputValidator.java
